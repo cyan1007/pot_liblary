@@ -83,3 +83,16 @@
     width: 7rem;
   }
 }
+
+.back-btn {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  background: #00f6ff;
+  color: #000;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  z-index: 999;
+}
